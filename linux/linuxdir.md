@@ -19,7 +19,7 @@ Linux运维的基础学习笔记
 
 * 虚拟机安装（VMware/VirtualBox）或双系统部署
 * 图形界面（GNOME/KDE）与命令行界面（CLI）切换
-* 远程连接工具使用（Xshell、SecureCRT、Putty）
+* [远程连接工具使用](./Linux/SSH远程连接工具使用推荐)（Xshell、SecureCRT、Putty）
 
 3. 基础命令操作
 
